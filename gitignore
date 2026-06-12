@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Outputs
+outputs/models/
+outputs/plots/
+outputs/results/
+
+# Processed data
+data/processed/
+
+# Raw dataset (downloaded from Mendeley Data)
+data/raw/
+
+# Temporary downloads
+*.zip
+data/temp_extract/
+
+# TensorFlow
+*.h5
+*.keras
+
+# Logs
+*.log
