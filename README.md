@@ -56,7 +56,7 @@ data/
 project/
 │
 ├── src/
-│   └── download_dataset.py
+│   └── download_dataset.ipynb
 │
 ├── notebooks/
 │   ├── run_pipeline.ipynb
