@@ -86,11 +86,6 @@ The pipeline supports deep feature extraction using the following pretrained con
 * VGG16
 * VGG19
 * ResNet50
-* MobileNet
-* EfficientNetB0
-* InceptionV3
-* ResNet101
-
 ---
 
 ## Machine Learning Classifiers
