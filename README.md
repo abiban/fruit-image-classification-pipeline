@@ -1,4 +1,4 @@
-# Fruit Image Classification Pipeline
+# Fruit Image Classification Pipeline [![DOI](https://zenodo.org/badge/1267600327.svg)](https://doi.org/10.5281/zenodo.22357373)
 
 ## Overview
 
