@@ -23,9 +23,10 @@ repository-code: "https://github.com/abiban/fruit-image-classification-pipeline"
 
 license: "MIT"
 
-version: "1.0.0"
-
+version: "v1.0.0"
 date-released: "2026-09-05"
+doi: 10.5281/zenodo.22357375
+url: "https://github.com/abiban/fruit-image-classification-pipeline"
 
 keywords:
   - "fruit image classification"
@@ -37,17 +38,3 @@ keywords:
   - "machine learning"
   - "fruit quality classification"
   - "non-destructive quality assessment"
-
-references:
-  - type: dataset
-    authors:
-      - family-names: "Kumari"
-        given-names: "Abiban"
-      - family-names: "Singh"
-        given-names: "Jaswinder"
-    title: "Fruits (Banana and Guava) datasets for non-destructive quality classifications"
-    version: "2"
-    year: 2024
-    publisher:
-      name: "Mendeley Data"
-    doi: "10.17632/56td5w4wz2.2"
