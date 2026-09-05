@@ -83,20 +83,21 @@ project/
 
 The pipeline supports deep feature extraction using the following pretrained convolutional neural networks:
 
-* VGG16
-* VGG19
 * ResNet50
+* DenseNet121
+* DenseNet201
+* EfficientNetB0
+* InceptionV3
+
 ---
 
 ## Machine Learning Classifiers
 
 Extracted deep features can be used with the following classifiers:
 
-* Linear Support Vector Machine (Linear SVM)
-* Quadratic Support Vector Machine
-* Cubic Support Vector Machine
+* Radial Basis Function Support Vector Machine (RBF SVM)
 * Random Forest
-* Logistic Regression
+* Multi-layer Perceptron (MLP)
 
 ---
 
