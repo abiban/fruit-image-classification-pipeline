@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it using the information below."
+
+title: "Fruit Image Classification Pipeline"
+
+abstract: >
+  A complete fruit image classification workflow incorporating image
+  preprocessing, deep feature extraction using pretrained convolutional
+  neural networks, and machine learning-based classification. The pipeline
+  supports automated dataset preparation, preprocessing, feature extraction,
+  model training, evaluation, and result generation for banana and guava
+  image datasets.
+
+type: software
+
+authors:
+  - family-names: "Kumari"
+    given-names: "Abiban"
+  - family-names: "Singh"
+    given-names: "Jaswinder"
+
+repository-code: "https://github.com/abiban/fruit-image-classification-pipeline"
+
+license: "MIT"
+
+version: "1.0.0"
+
+date-released: "2026-09-05"
+
+keywords:
+  - "fruit image classification"
+  - "banana"
+  - "guava"
+  - "computer vision"
+  - "deep feature extraction"
+  - "convolutional neural networks"
+  - "machine learning"
+  - "fruit quality classification"
+  - "non-destructive quality assessment"
+
+references:
+  - type: dataset
+    authors:
+      - family-names: "Kumari"
+        given-names: "Abiban"
+      - family-names: "Singh"
+        given-names: "Jaswinder"
+    title: "Fruits (Banana and Guava) datasets for non-destructive quality classifications"
+    version: "2"
+    year: 2024
+    publisher:
+      name: "Mendeley Data"
+    doi: "10.17632/56td5w4wz2.2"
